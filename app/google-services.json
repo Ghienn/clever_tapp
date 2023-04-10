@@ -1,0 +1,184 @@
+{
+  "project_info": {
+    "project_number": "679454858626",
+    "project_id": "clevertapdemo-1abc8",
+    "storage_bucket": "clevertapdemo-1abc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679454858626:android:1f37c4396bf63512d3039b",
+        "android_client_info": {
+          "package_name": "com.example.clever_tap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrfA1ogJh-qvQBGBX_hSUhQ4LFdeXxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679454858626:android:60fb6c212ee50994d3039b",
+        "android_client_info": {
+          "package_name": "com.example.clever_tapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrfA1ogJh-qvQBGBX_hSUhQ4LFdeXxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679454858626:android:6cf53fcc858af5eed3039b",
+        "android_client_info": {
+          "package_name": "com.example.clevertap_1c"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrfA1ogJh-qvQBGBX_hSUhQ4LFdeXxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679454858626:android:090002341644a962d3039b",
+        "android_client_info": {
+          "package_name": "com.example.clevertap_plugin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrfA1ogJh-qvQBGBX_hSUhQ4LFdeXxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679454858626:android:3c9ce831dd880fbad3039b",
+        "android_client_info": {
+          "package_name": "com.example.dogs_park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrfA1ogJh-qvQBGBX_hSUhQ4LFdeXxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679454858626:android:1d14a7760da6d8e1d3039b",
+        "android_client_info": {
+          "package_name": "com.innovation.demo.clevertap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUrfA1ogJh-qvQBGBX_hSUhQ4LFdeXxz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679454858626-tkiqtimj4f8h7mhns3gdk9vef7dptikl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
